@@ -27,3 +27,4 @@ THEN the saved tasks persist
 ![Board 2](https://github.com/fabianmedina3012/Personal-Blog-/assets/164245084/ad1555d2-f9d7-44fe-bb71-bbbd9657d598)
 
 ## Link:
+https://fabianmedina3012.github.io/Task-Board/
